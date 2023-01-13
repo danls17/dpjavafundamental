@@ -32,47 +32,28 @@ public class Main {
 
 
     public static void main(String[] args) {
-        String strSambung= "8"+3;
-        System.out.println(strSambung);
-    }
-
-
-        class Research {
-
-            public static void main(String[] args) {
-
-                int panjang = 0;
-
-                Scanner sn = new Scanner(System.in);
-
-                panjang = sn.next();
-
-                System.out.println(panjang);
-
-            }
-
-        }
-    }
-}
-public class LoopWhile {
-
-    public static void main(String[] args) {
-
-//		long pid = ProcessHandle.current().pid();
-//		System.out.println("Process ID "+pid);
+//        String strSambung= "8"+3;
+//        System.out.println(strSambung);
+//    }
 //
-//		try {
-//			Thread.sleep(10000);
-//		} catch (InterruptedException e) {
-//			System.out.println("ERROR");
-//		}
-        int x = 0;
-        while (x < 5) {
-            System.out.print(x);
-            x++;
-        }
-    }
-    }
+//
+//        class Research {
+//
+//            public static void main(String[] args) {
+//
+//                int panjang = 0;
+//
+//                Scanner sn = new Scanner(System.in);
+//
+//                panjang = sn.next();
+//
+//                System.out.println(panjang);
+//
+//            }
+//
+//        }
+//    }
+//}
 //		for(int i =0 ;i<5;i++)
 //		{
 //
@@ -96,4 +77,5 @@ public class LoopWhile {
 ////		System.out.println("Hello World !!");
 ////	}
 //}
-
+    }
+}
